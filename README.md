@@ -1,8 +1,6 @@
 
 # Fundamentos de Algebra - Practica 1
 
-
-
 ## Información del Estudiante
 - **Nombre:** Euruviel Márquez Martínez  
 - **Matrícula:**  SW2509018
@@ -12,6 +10,8 @@
 - **Profesor:** Jorge Javier Pedrozo Romero  
 
 # Actividad-21.-Cifrado-Hill
+
+
 
 ##  Descripción del Proyecto
 
